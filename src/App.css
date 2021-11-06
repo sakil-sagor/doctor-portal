@@ -36,8 +36,10 @@
   to {
     transform: rotate(360deg);
   }
+  
 } */
 
 .all-width{
   max-width: 1200px;
+  
 }
